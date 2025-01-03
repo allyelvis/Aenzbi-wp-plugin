@@ -22,7 +22,7 @@ Aenzbi WP Plugin is a custom WordPress plugin designed to integrate with EBMS Bu
 1. Clone the repository to your local environment:
 
    ```bash
-   git clone https://github.com/aenzbi/aenzbi-wp-plugin.git
+   git clone https://github.com/allyelvis/aenzbi-wp-plugin.git
    ```
 
 2. Move the cloned directory into the WordPress plugins directory:
